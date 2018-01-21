@@ -7,7 +7,7 @@ Current student at Founders & Coders, London.
 | Front-End        | Back-End       | Databases     | Testing          | Design              | Other             |
 |:----------------:|:--------------:|:-------------:|:----------------:|:-------------------:|:-----------------:|
 | JavaScript       | Node.js        | PostgreSQL    | Tape             | Adobe DX            | Git & Github      |
-| HTML5            | Express        |               | Istanbul         | Adobe Illustrator   | Heroku            |
+| HTML5            | Express        |               | Shot             | Adobe Illustrator   | Heroku            |
 | CSS3             |                |               | Travis CI        | Adobe Photoshop     | Design Thinking   |
 | Handlebars       |                |               |                  | Figma               |                   |
 | Sass             |                |               |                  | Invision            |                   |
@@ -16,38 +16,35 @@ Current student at Founders & Coders, London.
 
 ## Education
 ### :sparkles: Founders & Coders :sparkles:
-__Full Stack Javascript Bootcamp__
+* Full Stack Javascript Bootcamp
 
-October 2017 - February 2018
-### :clapper: Academy of Live & Recorder Arts (ALRA)
-__Graduate Cert. in Acting__
+### Skillcrush
+* Wordpress Developer Blueprint
 
-September 2007 - July 2008
+### OCA
+* Graphic Design 1: Core Concepts
 
-### :mortar_board: University of East Anglia
-__BA Film & American Studies, 2:1__
+### Academy of Live & Recorder Arts (ALRA)
+* Graduate Cert. in Acting
 
-September 2001 - June 2004
+### University of East Anglia
+* BA Film & American Studies, 2:1
 
-### :earth_africa: The Open University
+
+### The Open University
 * Certificate in Natural Sciences
 * MST121 Essential Mathematics
 * S175 The Frozen Planet
 * S186 Volcanoes, Earthquakes and Tsunamis
 
 
-## Employment History
+## Recent Employment History
 
 ### The Old Vic Theatre
 __Box Office Assistant & Usher__
+
 2010 - Present
 
-### The National Theatre
-__Box Office Assistant__
-2016 - Present
-
-### King's College Hospital
-__Medical Secretary (Temp)__
 
 ## Interests & Hobbies
 * AI
