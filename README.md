@@ -13,7 +13,7 @@ Current student at Founders & Coders, London.
 | Handlebars       |                |               |                  | Invision            |                   |
 
 
-## Projects
+## My Fave Projects
 
 [Lambeth Larder](https://github.com/caralemony/lambeth-larder) - A microsite for Lambeth Larder, helping people locate emergency food. 
 
