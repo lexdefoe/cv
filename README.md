@@ -13,8 +13,13 @@ Current student at Founders & Coders, London.
 | Handlebars       |                |               |                  | Invision            |                   |
 
 
-## Portfolio
+## Projects
 
+[Lambeth Larder](https://github.com/caralemony/lambeth-larder) - A microsite for Lambeth Larder, helping people locate emergency food. 
+
+[upShop](https://github.com/fac-12/upShop) - An app to help users find places to shop that reflect their values.
+
+[Tamagotchi](https://github.com/fac-12/tamagotchi-react) - A cute and fun project in React.
 
 
 ## Education
