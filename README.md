@@ -9,7 +9,7 @@ Current student at Founders & Coders, London.
 | JavaScript       | Node.js        | PostgreSQL    | Tape             | Adobe DX            | Git & Github      |
 | HTML5            | Express        |               | Shot             | Adobe Illustrator   | Heroku            |
 | CSS3/SCSS        |                |               | Travis CI        | Adobe Photoshop     | Design Thinking   |
-| React            |                |               |                  | Figma               |                   |
+| React            |                |               |                  | Figma               | Leaflet           |
 | Handlebars       |                |               |                  | Invision            |                   |
 
 
