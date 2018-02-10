@@ -19,7 +19,7 @@ Current student at Founders & Coders, London.
 
 [upShop](https://github.com/fac-12/upShop) - An app to help users find places to shop that reflect their values.
 
-[Tamagotchi](https://github.com/fac-12/tamagotchi-react) - A cute and fun project in React.
+[Tamagotchi](https://github.com/DevGrrrl/tamagitchi) - A cute and fun project in React.
 
 
 ## Education
