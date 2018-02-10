@@ -41,7 +41,7 @@ Current student at Founders & Coders, London.
 
 ### The Open University
 * Certificate in Natural Sciences
-* MST121 Essential Mathematics
+* MST121 Using Mathematics
 * S175 The Frozen Planet
 * S186 Volcanoes, Earthquakes and Tsunamis
 
