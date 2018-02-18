@@ -2,6 +2,8 @@
 
 Current student at Founders & Coders, London.
 
+Link to [pdf](/alexis-defoe.pdf) 
+ CV.
 ## Skills
 
 | Front-End        | Back-End       | Databases     | Testing          | Design              | Other             |
