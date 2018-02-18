@@ -1,6 +1,6 @@
 # Lex Defoe | Full-Stack Javascript Developer
 
-Current student at Founders & Coders, London.
+Recent graduate of Founders & Coders, London.
 
 Link to [pdf](/alexis-defoe.pdf) 
  CV.
