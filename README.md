@@ -21,6 +21,8 @@ Current student at Founders & Coders, London.
 
 [TamaGITchi](https://github.com/DevGrrrl/tamagitchi) - A cute and fun project in React.
 
+![tamagitchi](https://user-images.githubusercontent.com/22034073/36355368-050faed2-14da-11e8-9a44-d856bdcb408b.gif)
+
 
 ## Education
 ### :sparkles: Founders & Coders :sparkles:
