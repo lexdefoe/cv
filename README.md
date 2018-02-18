@@ -28,7 +28,7 @@ Link to [pdf](/alexis-defoe.pdf)
 
 ## Education
 ### :sparkles: Founders & Coders :sparkles:
-* Full Stack Javascript Bootcamp
+* A peer-led, project-based Full Stack Javascript Bootcamp
 
 ### Skillcrush
 * Wordpress Developer Blueprint
