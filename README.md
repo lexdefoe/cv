@@ -11,8 +11,8 @@ Link to [pdf](/alexis-defoe.pdf)
 | JavaScript       | Node.js        | PostgreSQL    | Tape             | Adobe DX            | Git & Github      |
 | HTML5            | Express        |               | Shot             | Adobe Illustrator   | Heroku            |
 | CSS3/SCSS        |                |               | Travis CI        | Adobe Photoshop     | Design Thinking   |
-| React            |                |               |                  | Figma               | Leaflet           |
-| Handlebars       |                |               |                  | Invision            |                   |
+| React            |                |               |                  | Figma               | Leaflet|
+| Handlebars       |                |               |                  | Invision            | D3                  |
 
 
 ## My Fave Projects
