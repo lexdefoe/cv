@@ -29,7 +29,7 @@ Data Vis Projects: [GDP Bar Chart (d3)](https://github.com/DevGrrrl/GDP-barchart
 
 
 ## Relevant Education
-### :sparkles: Founders & Coders :sparkles:
+### Founders & Coders :sparkles:
 * A peer-led, project-based Full Stack Javascript Bootcamp
 
 ### Skillcrush
@@ -38,6 +38,16 @@ Data Vis Projects: [GDP Bar Chart (d3)](https://github.com/DevGrrrl/GDP-barchart
 ### OCA
 * Graphic Design 1: Core Concepts
 
+## Interests & Hobbies
+* AI
+* UI Design
+* Data Vis
+* Tech For Good
+* Space :space_invader:
+* Learning new things
+* Drawing/painting with pencils and pixels
+* Reading, writing and watching great TV
+* Homebody (see above)
 
 ## Recent Employment History
 
@@ -60,18 +70,6 @@ __Box Office Assistant & Usher__
 * MST121 Using Mathematics
 * S175 The Frozen Planet
 * S186 Volcanoes, Earthquakes and Tsunamis
-
-
-## Interests & Hobbies
-* AI
-* UI Design
-* Data Vis
-* Tech For Good
-* Space :space_invader:
-* Learning new things
-* Drawing/painting with pencils and pixels
-* Reading, writing and watching great TV
-* Homebody (see above)
 
 ## Contact
 
