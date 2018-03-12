@@ -29,7 +29,7 @@ Data Vis Projects: [GDP Bar Chart (d3)](https://github.com/DevGrrrl/GDP-barchart
 
 
 ## Relevant Education
-### Founders & Coders :sparkles:
+### [Founders & Coders](https://foundersandcoders.com/) :sparkles:
 * A peer-led, project-based Full Stack Javascript Bootcamp
 
 ### Skillcrush
