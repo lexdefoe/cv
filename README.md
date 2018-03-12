@@ -17,7 +17,7 @@ Link to [pdf](/alexis-defoe.pdf)
 
 ## My Fave Projects
 
-Data Vis Projects: [GDP Bar Chart (d3)](https://github.com/DevGrrrl/GDP-barchart), [Doping in professional cycling scatterplot (d3)](https://github.com/DevGrrrl/Scatterplot-doping)
+Data Vis Projects: [GDP Bar Chart (d3)](https://github.com/DevGrrrl/GDP-barchart), [Doping in professional cycling scatterplot (d3)](https://github.com/DevGrrrl/Scatterplot-doping), [LST Heat Map](Monthly-LST-Heat-Map)
 
 [Lambeth Larder](https://github.com/caralemony/lambeth-larder) - A microsite for Lambeth Larder, helping people locate emergency food. 
 
