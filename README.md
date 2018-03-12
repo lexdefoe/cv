@@ -28,7 +28,7 @@ Data Vis Projects: [GDP Bar Chart (d3)](https://github.com/DevGrrrl/GDP-barchart
 ![tamagitchi](https://user-images.githubusercontent.com/22034073/36355368-050faed2-14da-11e8-9a44-d856bdcb408b.gif)
 
 
-## Education
+## Relevant Education
 ### :sparkles: Founders & Coders :sparkles:
 * A peer-led, project-based Full Stack Javascript Bootcamp
 
@@ -37,6 +37,16 @@ Data Vis Projects: [GDP Bar Chart (d3)](https://github.com/DevGrrrl/GDP-barchart
 
 ### OCA
 * Graphic Design 1: Core Concepts
+
+
+## Recent Employment History
+
+### The Old Vic Theatre
+__Box Office Assistant & Usher__
+
+2010 - Present
+
+## Previous Study 
 
 ### Academy of Live & Recorder Arts (ALRA)
 * Graduate Cert. in Acting
@@ -52,17 +62,10 @@ Data Vis Projects: [GDP Bar Chart (d3)](https://github.com/DevGrrrl/GDP-barchart
 * S186 Volcanoes, Earthquakes and Tsunamis
 
 
-## Recent Employment History
-
-### The Old Vic Theatre
-__Box Office Assistant & Usher__
-
-2010 - Present
-
-
 ## Interests & Hobbies
 * AI
 * UI Design
+* Data Vis
 * Tech For Good
 * Space :space_invader:
 * Learning new things
