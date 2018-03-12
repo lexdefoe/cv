@@ -17,6 +17,8 @@ Link to [pdf](/alexis-defoe.pdf)
 
 ## My Fave Projects
 
+Data Vis Projects: [GDP Bar Chart (d3)](https://github.com/DevGrrrl/GDP-barchart), [Doping in professional cycling scatterplot (d3)](https://github.com/DevGrrrl/Scatterplot-doping)
+
 [Lambeth Larder](https://github.com/caralemony/lambeth-larder) - A microsite for Lambeth Larder, helping people locate emergency food. 
 
 [upShop](https://github.com/fac-12/upShop) - An app to help users find places to shop that reflect their values.
