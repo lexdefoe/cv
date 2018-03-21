@@ -59,7 +59,7 @@ __Box Office Assistant & Usher__
 ## Previous Study 
 
 ### Academy of Live & Recorder Arts (ALRA)
-* Graduate Cert. in Acting
+* Postgraduate Acting
 
 ### University of East Anglia
 * BA Film & American Studies, 2:1
