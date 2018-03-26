@@ -2,7 +2,7 @@
 
 Recent graduate of Founders & Coders, London.
 
-Link to [pdf](/alexis-defoe.pdf) 
+Link to [pdf](/AlexisDefoeCV2018.pdf) 
  CV.
 ## Skills
 
