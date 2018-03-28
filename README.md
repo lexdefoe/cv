@@ -39,8 +39,9 @@ Data Vis Projects: [GDP Bar Chart (d3)](https://github.com/DevGrrrl/GDP-barchart
 * Graphic Design 1: Core Concepts
 
 ## Interests & Hobbies
+
+* Node!
 * AI
-* UI Design
 * Data Vis
 * Tech For Good
 * Space :space_invader:
