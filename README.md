@@ -52,6 +52,11 @@ Data Vis Projects: [GDP Bar Chart (d3)](https://github.com/DevGrrrl/GDP-barchart
 
 ## Recent Employment History
 
+### Arup
+__Software Developer - Assistant Consultant__
+
+June 2018 - Aug 2020
+
 ### The Old Vic Theatre
 __Box Office Assistant & Usher__
 
